@@ -10,7 +10,7 @@ This work is licensed under a
 The data and notebook contained in this repository foster the reproducibility of the following paper: 
 
 * Julien Coelho, Maria Montserrat, Vincent P. Martin, Christophe Gauld, Alexandre Richaud, Régis Lopez, Marie Pelou, Poeiti Abi-Saab, Pierre Philip, Pierre-Alexis Geoffroy, Laura Palagini, Jean-Arthur Micoulaud-Franchi. 
-A symptom content analysis of self-report questionnaire of insomnia disorder severity. *Under review*
+Content Analysis of Insomnia Questionnaires: A Step to Better Evaluate the Complex and Multifaceted Construct of Insomnia Disorder. *Under review*
 
 
 Furthermore, to give the community a useful tool that can be used by any clinicians without any knowledge of coding, we set up a 👉[Binder repository](https://mybinder.org/v2/gh/vincentpmartin/insomnia.content.analysis/HEAD?labpath=jupyter_notebook_insomnia_content_analysis.ipynb)👈, guiding the reader to run the code in a fully online environemnent. 
